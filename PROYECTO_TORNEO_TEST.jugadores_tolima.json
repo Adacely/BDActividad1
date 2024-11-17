@@ -1,0 +1,363 @@
+[{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef5"
+  },
+  "nombre": "Neto Volpi",
+  "posición": "Portero",
+  "f_nacimiento": "01/08/1992",
+  "edad": 32,
+  "nacionalidad": "Brasil",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef6"
+  },
+  "nombre": "Juan Camilo Chaverra",
+  "posición": "Portero",
+  "f_nacimiento": "12/12/1992",
+  "edad": 31,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "200 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef7"
+  },
+  "nombre": "William Cuesta",
+  "posición": "Portero",
+  "f_nacimiento": "19/02/1993",
+  "edad": 31,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "150 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef8"
+  },
+  "nombre": "Marlon Torres",
+  "posición": "Defensa central",
+  "f_nacimiento": "17/04/1996",
+  "edad": 28,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "650 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef9"
+  },
+  "nombre": "Anderson Angulo",
+  "posición": "Defensa central",
+  "f_nacimiento": "01/07/1996",
+  "edad": 28,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4efa"
+  },
+  "nombre": "Alfonso Simarra",
+  "posición": "Defensa central",
+  "f_nacimiento": "13/07/2000",
+  "edad": 24,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "300 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4efb"
+  },
+  "nombre": "Juan Mera",
+  "posición": "Defensa central",
+  "f_nacimiento": "12/03/2002",
+  "edad": 22,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "300 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4efc"
+  },
+  "nombre": "Julián Quiñones",
+  "posición": "Defensa central",
+  "f_nacimiento": "05/11/1989",
+  "edad": 35,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "250 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4efd"
+  },
+  "nombre": "Jhon Quiñones",
+  "posición": "Defensa central",
+  "f_nacimiento": "16/04/2004",
+  "edad": 20,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "50 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4efe"
+  },
+  "nombre": "Junior Hernández",
+  "posición": "Lateral izquierdo",
+  "f_nacimiento": "05/04/1999",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "1,20 mill. €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4eff"
+  },
+  "nombre": "Jeison Angulo",
+  "posición": "Lateral izquierdo",
+  "f_nacimiento": "27/06/1996",
+  "edad": 28,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "300 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f00"
+  },
+  "nombre": "Yhormar Hurtado",
+  "posición": "Lateral derecho",
+  "f_nacimiento": "14/12/1996",
+  "edad": 27,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "550 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f01"
+  },
+  "nombre": "Yilson Rosales",
+  "posición": "Lateral derecho",
+  "f_nacimiento": "09/12/2000",
+  "edad": 23,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "250 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f02"
+  },
+  "nombre": "Cristian Trujillo",
+  "posición": "Pivote",
+  "f_nacimiento": "09/08/1998",
+  "edad": 26,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "650 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f03"
+  },
+  "nombre": "Brayan Rovira",
+  "posición": "Pivote",
+  "f_nacimiento": "02/12/1996",
+  "edad": 27,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "450 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f04"
+  },
+  "nombre": "Fabian Mosquera",
+  "posición": "Pivote",
+  "f_nacimiento": "03/03/1995",
+  "edad": 29,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f05"
+  },
+  "nombre": "Juan Pablo Nieto",
+  "posición": "Mediocentro",
+  "f_nacimiento": "25/02/1993",
+  "edad": 31,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "500 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f06"
+  },
+  "nombre": "Carlos Esparragoza",
+  "posición": "Mediocentro",
+  "f_nacimiento": "06/03/1999",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "450 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f07"
+  },
+  "nombre": "Yeison Guzmán",
+  "posición": "Mediocentro ofensivo",
+  "f_nacimiento": "22/03/1998",
+  "edad": 26,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "2,80 mill. €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f08"
+  },
+  "nombre": "Eduardo Sosa",
+  "posición": "Mediocentro ofensivo",
+  "f_nacimiento": "20/06/1996",
+  "edad": 28,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "450 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f09"
+  },
+  "nombre": "Andrés Arroyo",
+  "posición": "Mediocentro ofensivo",
+  "f_nacimiento": "20/01/2002",
+  "edad": 22,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "350 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f0a"
+  },
+  "nombre": "William Dávila",
+  "posición": "Mediocentro ofensivo",
+  "f_nacimiento": "01/06/2001",
+  "edad": 23,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "50 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f0b"
+  },
+  "nombre": "Alex Castro",
+  "posición": "Extremo izquierdo",
+  "f_nacimiento": "08/03/1994",
+  "edad": 30,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "550 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f0c"
+  },
+  "nombre": "Facundo Boné",
+  "posición": "Extremo izquierdo",
+  "f_nacimiento": "16/11/1995",
+  "edad": 29,
+  "nacionalidad": "Italia",
+  "valor_mercado": "450 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f0d"
+  },
+  "nombre": "Kevin Pérez",
+  "posición": "Extremo derecho",
+  "f_nacimiento": "18/07/1997",
+  "edad": 27,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "650 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f0e"
+  },
+  "nombre": "Jeison Lucumí",
+  "posición": "Extremo derecho",
+  "f_nacimiento": "08/04/1995",
+  "edad": 29,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "600 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f0f"
+  },
+  "nombre": "Luis Miranda",
+  "posición": "Extremo derecho",
+  "f_nacimiento": "27/08/1997",
+  "edad": 27,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "300 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f10"
+  },
+  "nombre": "Brayan Gil",
+  "posición": "Delantero centro",
+  "f_nacimiento": "28/06/2001",
+  "edad": 23,
+  "nacionalidad": "El Salvador",
+  "valor_mercado": "700 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f11"
+  },
+  "nombre": "Franco López",
+  "posición": "Delantero centro",
+  "f_nacimiento": "20/10/1992",
+  "edad": 32,
+  "nacionalidad": "Uruguay",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f12"
+  },
+  "nombre": "Carlos Cortés",
+  "posición": "Delantero centro",
+  "f_nacimiento": "17/09/2001",
+  "edad": 23,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f13"
+  },
+  "nombre": "Gustavo Ramírez",
+  "posición": "Delantero centro",
+  "f_nacimiento": "13/05/1990",
+  "edad": 34,
+  "nacionalidad": "Paraguay",
+  "valor_mercado": "200 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f14"
+  },
+  "nombre": "Jeinner Fuentes",
+  "posición": "Delantero centro",
+  "f_nacimiento": "07/05/2005",
+  "edad": 19,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "100 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f15"
+  },
+  "nombre": "Juan Carabalí",
+  "posición": "Delantero centro",
+  "f_nacimiento": "26/02/2003",
+  "edad": 21,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "50 mil €"
+}]

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f54"
+  },
+  "nombre": "Jhon Ospina",
+  "ciudad": "Quindío",
+  "partidos_asignados": [
+    "América de Cali vs. Once Caldas"
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f55"
+  },
+  "nombre": "Carlos Ortega",
+  "ciudad": "Bolívar",
+  "partidos_asignados": [
+    "Junior de Barranquilla vs. Deportes Tolima"
+  ]
+}]

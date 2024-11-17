@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed6"
+  },
+  "nombre": "lucas gonzales",
+  "equipo": "América de Cali"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed7"
+  },
+  "nombre": "Arturo Reyes",
+  "equipo": "Junior de Barranquilla"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed8"
+  },
+  "nombre": "Hernán Torres",
+  "equipo": "Deportes Tolima"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed9"
+  },
+  "nombre": "Pedro Sarmiento",
+  "equipo": "Once Caldas"
+}]

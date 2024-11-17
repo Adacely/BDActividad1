@@ -1,0 +1,297 @@
+[{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4eda"
+  },
+  "nombre": "Joel Graterol",
+  "posición": "Portero",
+  "f_nacimiento": "15/05/1997",
+  "edad": 27,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "800 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4edb"
+  },
+  "nombre": "Jorge Soto",
+  "posición": "Portero",
+  "f_nacimiento": "02/08/1993",
+  "edad": 31,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4edc"
+  },
+  "nombre": "David Quintero",
+  "posición": "Portero",
+  "f_nacimiento": "29/01/1998",
+  "edad": 26,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "50 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4edd"
+  },
+  "nombre": "Juan Munera",
+  "posición": "Portero",
+  "f_nacimiento": "17/07/2001",
+  "edad": 23,
+  "nacionalidad": "España",
+  "valor_mercado": "-"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ede"
+  },
+  "nombre": "Andrés Mosquera",
+  "posición": "Defensa central",
+  "f_nacimiento": "20/02/1990",
+  "edad": 34,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "550 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4edf"
+  },
+  "nombre": "Jeisson Palacios",
+  "posición": "Defensa central",
+  "f_nacimiento": "20/03/1994",
+  "edad": 30,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "450 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee0"
+  },
+  "nombre": "Brayan Medina",
+  "posición": "Defensa central",
+  "f_nacimiento": "04/03/2002",
+  "edad": 22,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee1"
+  },
+  "nombre": "Daniel Bocanegra",
+  "posición": "Defensa central",
+  "f_nacimiento": "23/04/1987",
+  "edad": 37,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "50 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee2"
+  },
+  "nombre": "David Mina",
+  "posición": "Lateral izquierdo",
+  "f_nacimiento": "12/04/1999",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee3"
+  },
+  "nombre": "Edwin Velasco",
+  "posición": "Lateral izquierdo",
+  "f_nacimiento": "05/11/1991",
+  "edad": 33,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "300 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee4"
+  },
+  "nombre": "Yerson Candelo",
+  "posición": "Lateral derecho",
+  "f_nacimiento": "24/02/1992",
+  "edad": 32,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "600 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee5"
+  },
+  "nombre": "Nilson Castrillón",
+  "posición": "Lateral derecho",
+  "f_nacimiento": "28/01/1996",
+  "edad": 28,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee6"
+  },
+  "nombre": "Josen Escobar",
+  "posición": "Pivote",
+  "f_nacimiento": "12/12/2004",
+  "edad": 19,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "2,00 mill. €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee7"
+  },
+  "nombre": "Éder Balanta",
+  "posición": "Pivote",
+  "f_nacimiento": "28/02/1993",
+  "edad": 31,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "900 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee8"
+  },
+  "nombre": "Franco Leys",
+  "posición": "Pivote",
+  "f_nacimiento": "18/10/1993",
+  "edad": 31,
+  "nacionalidad": "Argentina",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ee9"
+  },
+  "nombre": "Luis Alejandro Paz",
+  "posición": "Pivote",
+  "f_nacimiento": "08/09/1988",
+  "edad": 36,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "100 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4eea"
+  },
+  "nombre": "Jader Quiñónes",
+  "posición": "Mediocentro",
+  "f_nacimiento": "12/12/2000",
+  "edad": 23,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "700 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4eeb"
+  },
+  "nombre": "Harold Rivera",
+  "posición": "Mediocentro",
+  "f_nacimiento": "19/03/1993",
+  "edad": 31,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "500 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4eec"
+  },
+  "nombre": "Alexis Zapata",
+  "posición": "Mediocentro ofensivo",
+  "f_nacimiento": "10/05/1995",
+  "edad": 29,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "450 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4eed"
+  },
+  "nombre": "Duván Vergara",
+  "posición": "Extremo izquierdo",
+  "f_nacimiento": "09/09/1996",
+  "edad": 28,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "2,00 mill. €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4eee"
+  },
+  "nombre": "Mateo Zuleta",
+  "posición": "Extremo izquierdo",
+  "f_nacimiento": "07/06/2002",
+  "edad": 22,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "500 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4eef"
+  },
+  "nombre": "Éver Valencia",
+  "posición": "Extremo izquierdo",
+  "f_nacimiento": "23/01/1997",
+  "edad": 27,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "500 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef0"
+  },
+  "nombre": "Pipe Gómez",
+  "posición": "Extremo izquierdo",
+  "f_nacimiento": "11/10/1999",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "450 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef1"
+  },
+  "nombre": "Cristian Barrios",
+  "posición": "Extremo derecho",
+  "f_nacimiento": "19/05/1998",
+  "edad": 26,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "1,60 mill. €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef2"
+  },
+  "nombre": "Rodrigo Holgado",
+  "posición": "Delantero centro",
+  "f_nacimiento": "28/06/1995",
+  "edad": 29,
+  "nacionalidad": "Argentina",
+  "valor_mercado": "800 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef3"
+  },
+  "nombre": "Yojan Garcés",
+  "posición": "Delantero centro",
+  "f_nacimiento": "27/05/2006",
+  "edad": 18,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "250 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ef4"
+  },
+  "nombre": "Adrián Ramos",
+  "posición": "Delantero centro",
+  "f_nacimiento": "22/01/1986",
+  "edad": 38,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "50 mil €"
+}]

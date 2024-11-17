@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ece"
+  },
+  "equipo": "América de Cali",
+  "pj": 0,
+  "pg": 0,
+  "pe": 0,
+  "pp": 0,
+  "puntos": 0
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ecf"
+  },
+  "equipo": "Junior de Barranquilla",
+  "pj": 0,
+  "pg": 0,
+  "pe": 0,
+  "pp": 0,
+  "puntos": 0
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed0"
+  },
+  "equipo": "Deportes Tolima",
+  "pj": 0,
+  "pg": 0,
+  "pe": 0,
+  "pp": 0,
+  "puntos": 0
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed1"
+  },
+  "equipo": "Once Caldas",
+  "pj": 0,
+  "pg": 0,
+  "pe": 0,
+  "pp": 0,
+  "puntos": 0
+}]

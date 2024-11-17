@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f52"
+  },
+  "equipo_local": "América de Cali",
+  "equipo_visitante": "Once Caldas",
+  "fecha": "2024-11-20",
+  "hora": "20:00",
+  "estadio": "Pascual Guerrero (Cali)",
+  "arbitro": "Jhon Ospina"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f53"
+  },
+  "equipo_local": "Junior de Barranquilla",
+  "equipo_visitante": "Deportes Tolima",
+  "fecha": "2024-11-21",
+  "hora": "18:00",
+  "estadio": "Metropolitano Roberto Meléndez (Barranquilla)",
+  "arbitro": "Carlos Ortega"
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed2"
+  },
+  "nombre": "América de Cali",
+  "grupo": "B",
+  "jugadores": []
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed3"
+  },
+  "nombre": "Junior de Barranquilla",
+  "grupo": "B",
+  "jugadores": []
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed4"
+  },
+  "nombre": "Deportes Tolima",
+  "grupo": "B",
+  "jugadores": []
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4ed5"
+  },
+  "nombre": "Once Caldas",
+  "grupo": "B",
+  "jugadores": []
+}]

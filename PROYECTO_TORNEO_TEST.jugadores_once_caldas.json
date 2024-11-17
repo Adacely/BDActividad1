@@ -1,0 +1,319 @@
+[{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f35"
+  },
+  "nombre": "James Aguirre",
+  "posición": "Portero",
+  "f_nacimiento": "21/05/1992",
+  "edad": 32,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "300 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f36"
+  },
+  "nombre": "Ezequiel Mastrolía",
+  "posición": "Portero",
+  "f_nacimiento": "25/03/1991",
+  "edad": 33,
+  "nacionalidad": "Argentina",
+  "valor_mercado": "200 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f37"
+  },
+  "nombre": "Juan Gallego",
+  "posición": "Portero",
+  "f_nacimiento": "26/10/2004",
+  "edad": 20,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "-"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f38"
+  },
+  "nombre": "Stalin Valencia",
+  "posición": "Defensa central",
+  "f_nacimiento": "10/10/2003",
+  "edad": 21,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "350 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f39"
+  },
+  "nombre": "Jorge Cardona",
+  "posición": "Defensa central",
+  "f_nacimiento": "23/02/1999",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "350 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f3a"
+  },
+  "nombre": "Yonatan Murillo",
+  "posición": "Defensa central",
+  "f_nacimiento": "05/07/1992",
+  "edad": 32,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "250 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f3b"
+  },
+  "nombre": "Jáider Riquett",
+  "posición": "Defensa central",
+  "f_nacimiento": "10/05/1990",
+  "edad": 34,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "200 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f3c"
+  },
+  "nombre": "Léyder Morán",
+  "posición": "Defensa central",
+  "f_nacimiento": "25/12/2004",
+  "edad": 19,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "150 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f3d"
+  },
+  "nombre": "Juan Patiño",
+  "posición": "Lateral izquierdo",
+  "f_nacimiento": "10/09/1998",
+  "edad": 26,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "550 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f3e"
+  },
+  "nombre": "Juan David Cuesta",
+  "posición": "Lateral derecho",
+  "f_nacimiento": "21/11/1997",
+  "edad": 26,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "550 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f3f"
+  },
+  "nombre": "Daniel Quiñones",
+  "posición": "Lateral derecho",
+  "f_nacimiento": "07/04/1999",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "100 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f40"
+  },
+  "nombre": "Iván Rojas",
+  "posición": "Pivote",
+  "f_nacimiento": "24/07/1997",
+  "edad": 27,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "650 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f41"
+  },
+  "nombre": "Dánnovi Quiñones",
+  "posición": "Pivote",
+  "f_nacimiento": "05/01/2001",
+  "edad": 23,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "300 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f42"
+  },
+  "nombre": "Álvaro Montaño",
+  "posición": "Pivote",
+  "f_nacimiento": "14/09/2000",
+  "edad": 24,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "200 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f43"
+  },
+  "nombre": "Juan Camilo García",
+  "posición": "Pivote",
+  "f_nacimiento": "24/02/1997",
+  "edad": 27,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "100 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f44"
+  },
+  "nombre": "Alejandro Garcia",
+  "posición": "Mediocentro",
+  "f_nacimiento": "28/02/2001",
+  "edad": 23,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "900 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f45"
+  },
+  "nombre": "Mateo García",
+  "posición": "Mediocentro",
+  "f_nacimiento": "28/08/1998",
+  "edad": 26,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "700 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f46"
+  },
+  "nombre": "Lucas Ríos",
+  "posición": "Mediocentro ofensivo",
+  "f_nacimiento": "08/03/1998",
+  "edad": 26,
+  "nacionalidad": "Argentina",
+  "valor_mercado": "700 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f47"
+  },
+  "nombre": "Johan Beltrán",
+  "posición": "Mediocentro ofensivo",
+  "f_nacimiento": "18/10/1999",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "300 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f48"
+  },
+  "nombre": "Róger Torres",
+  "posición": "Mediocentro ofensivo",
+  "f_nacimiento": "13/07/1991",
+  "edad": 33,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "200 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f49"
+  },
+  "nombre": "Manuel Arteaga",
+  "posición": "Mediocentro ofensivo",
+  "f_nacimiento": "26/02/1999",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "200 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f4a"
+  },
+  "nombre": "Luis Palacios",
+  "posición": "Extremo izquierdo",
+  "f_nacimiento": "10/04/2001",
+  "edad": 23,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "400 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f4b"
+  },
+  "nombre": "Joel Contreras",
+  "posición": "Extremo izquierdo",
+  "f_nacimiento": "01/05/1999",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "350 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f4c"
+  },
+  "nombre": "Jefry Zapata",
+  "posición": "Extremo izquierdo",
+  "f_nacimiento": "03/02/2000",
+  "edad": 24,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "350 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f4d"
+  },
+  "nombre": "Michael Barrios",
+  "posición": "Extremo derecho",
+  "f_nacimiento": "21/04/1991",
+  "edad": 33,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "600 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f4e"
+  },
+  "nombre": "John Deiby Araujo",
+  "posición": "Extremo derecho",
+  "f_nacimiento": "18/07/2002",
+  "edad": 22,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "300 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f4f"
+  },
+  "nombre": "Jesús Hernández",
+  "posición": "Delantero centro",
+  "f_nacimiento": "06/01/1993",
+  "edad": 31,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "275 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f50"
+  },
+  "nombre": "Dayro Moreno",
+  "posición": "Delantero centro",
+  "f_nacimiento": "16/09/1985",
+  "edad": 39,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "200 mil €"
+},
+{
+  "_id": {
+    "$oid": "673a15c543a356928a5a4f51"
+  },
+  "nombre": "Felipe Cifuentes",
+  "posición": "Delantero centro",
+  "f_nacimiento": "14/04/2002",
+  "edad": 22,
+  "nacionalidad": "Colombia",
+  "valor_mercado": "100 mil €"
+}]
